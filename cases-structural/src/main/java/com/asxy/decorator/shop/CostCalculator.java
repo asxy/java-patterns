@@ -1,4 +1,4 @@
-package com.asxy.decorator;
+package com.asxy.decorator.shop;
 
 import java.math.BigDecimal;
 

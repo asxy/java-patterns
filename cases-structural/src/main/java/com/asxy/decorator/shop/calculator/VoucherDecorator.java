@@ -1,7 +1,7 @@
-package com.asxy.decorator.calculator;
+package com.asxy.decorator.shop.calculator;
 
-import com.asxy.decorator.AbstractCostDecorator;
-import com.asxy.decorator.CostCalculator;
+import com.asxy.decorator.shop.AbstractCostDecorator;
+import com.asxy.decorator.shop.CostCalculator;
 
 import java.math.BigDecimal;
 import java.text.MessageFormat;

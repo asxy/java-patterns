@@ -1,8 +1,8 @@
-package com.asxy.decorator;
+package com.asxy.decorator.shop;
 
-import com.asxy.decorator.calculator.DiscountDecorator;
-import com.asxy.decorator.calculator.FullDiscountDecorator;
-import com.asxy.decorator.calculator.VoucherDecorator;
+import com.asxy.decorator.shop.calculator.DiscountDecorator;
+import com.asxy.decorator.shop.calculator.FullDiscountDecorator;
+import com.asxy.decorator.shop.calculator.VoucherDecorator;
 
 import java.math.BigDecimal;
 import java.text.MessageFormat;
